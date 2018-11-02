@@ -1,2 +1,2 @@
 # Snake-game
-Classic snake game using pygaem
+Classic snake game using pygame in python
